@@ -29,7 +29,6 @@ class Main {
             }
             return;
         }
-
         Scanner scanner = new Scanner(System.in);
 
         String filesDirectory = "./src/main/resources/documents";
