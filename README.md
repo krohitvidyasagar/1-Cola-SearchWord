@@ -28,7 +28,7 @@ This program searches for the maximum occurrences of a specified word across mul
     ```sh
     javac -d . src/org/work/com/Main.java evident
     ```
-    Replace the word 'evident' in the above command with any word you would like to search
+    ***Replace the word 'evident' in the above command with any word you would like to search***
 
 2. **Run the program:**
 
