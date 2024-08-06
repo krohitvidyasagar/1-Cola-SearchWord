@@ -1,5 +1,11 @@
 # Word Search Program
 
+## Special Note
+
+The preprocessing part of this program should be handled separately. It would involve forming a word map, where each 
+word and its  count in a document should be maintained in a table. The search program should query this table to 
+retrieve the count of a specified word  in each document and identifies the document with the maximum count.
+
 ## Description
 
 This program searches for the maximum occurrences of a specified word across multiple text files within a directory. It excludes certain words specified in a separate text file. The user can repeatedly search for different words until they choose to exit.
