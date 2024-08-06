@@ -1,4 +1,4 @@
-# Word Search Program
+# Search Word Program
 
 ## Special Note
 
